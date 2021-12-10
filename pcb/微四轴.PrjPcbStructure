@@ -1,0 +1,6 @@
+Record=SheetSymbol|SourceDocument=微四轴.SchDoc|Designator=主控|SchDesignator=主控|FileName=主控.SchDoc|SymbolType=Normal|RawFileName=主控.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=微四轴.SchDoc|Designator=姿态|SchDesignator=姿态|FileName=姿态.SchDoc|SymbolType=Normal|RawFileName=姿态.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=微四轴.SchDoc|Designator=无线|SchDesignator=无线|FileName=无线.SchDoc|SymbolType=Normal|RawFileName=无线.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=微四轴.SchDoc|Designator=电源|SchDesignator=电源|FileName=电源.SchDoc|SymbolType=Normal|RawFileName=电源.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=微四轴.SchDoc|Designator=驱动|SchDesignator=驱动|FileName=驱动.SchDoc|SymbolType=Normal|RawFileName=驱动.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=微四轴.SchDoc
