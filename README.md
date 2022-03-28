@@ -6,7 +6,7 @@
 
 ## 3D模型
 
-![整体](https://github.com/howborn/quadrotor-uav/blob/master/1.3D/整体.jpg)
+![整体](https://github.com/howborn/quadrotor-uav/blob/master/1.3D/整体.png)
 
 ![背面](https://github.com/howborn/quadrotor-uav/blob/master/1.3D/背面.jpg)
 
